@@ -1,16 +1,20 @@
 {
-    "name": "konekt/pdf-invoice",
+    "name": "hankur/pdf-invoice",
     "description": "Library to generate PDF invoices",
     "type": "library",
     "license": "GPL-2.0-or-later",
-    "keywords": ["invoice", "pdf", "konekt", "artkonekt"],
+    "keywords": ["invoice", "pdf", "hankur"],
     "support": {
-        "source": "https://github.com/artkonekt/pdf-invoice"
+        "source": "https://github.com/hankur/pdf-invoice"
     },
     "authors": [
         {
             "name": "Attila Fulop",
             "homepage": "https://github.com/fulopattila122"
+        },
+        {
+            "name": "Hans Kurel",
+            "homepage": "https://github.com/hankur"
         }
     ],
     "require": {
